@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;archDemo1/aech.xml&apos; to &apos;arch.xml&apos;" description="Rename resource &apos;aech.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="aech.xml" name="arch.xml" stamp="1506460849527" updateReferences="true"/>
+</session>
